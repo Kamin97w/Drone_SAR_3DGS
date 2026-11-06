@@ -1,0 +1,24 @@
+data/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Môi trường ảo (Virtual Environments)
+venv/
+env/
+.env
+.venv/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
